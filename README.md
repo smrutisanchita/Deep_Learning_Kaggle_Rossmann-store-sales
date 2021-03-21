@@ -33,5 +33,4 @@ Promo 				 - indicates whether a store is running a promo on that day
 Promo2 				 - Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
 Promo2Since[Year/Week] 	 - describes the year and calendar week when the store started participating in Promo2
 PromoInterval 			 - describes the consecutive intervals Promo2 is started
-![image](https://user-images.githubusercontent.com/10609710/111902476-8689a700-8a35-11eb-9687-2d7e1e1a58dd.png)
 
